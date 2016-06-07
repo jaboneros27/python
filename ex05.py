@@ -1,4 +1,4 @@
-my_name = 'Daniel Sayo'
+my_name = 'Jabby Eros'
 my_age = 52 # absolutely relative to this year
 my_height = (5 * 12) + 6 * 2.54 # in centimeters
 my_weight = 160 * 0.453592 # in kilos
